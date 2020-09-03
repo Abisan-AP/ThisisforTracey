@@ -1,3 +1,10 @@
 Hi, this is your typical anime protagonist.
+<<<<<<< HEAD
 
 No I really hope this works.
+=======
+I am the fire lord of the nation.
+
+
+If it doesn't it's back to the drawing board.
+>>>>>>> 63d80e482c656c0e928414389af1f915db80756c
